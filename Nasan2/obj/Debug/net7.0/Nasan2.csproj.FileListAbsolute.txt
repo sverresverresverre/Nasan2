@@ -1,0 +1,14 @@
+c:\Users\sverre.kallberg\Documents\Prog2\Nasan2\Nasan2\bin\Debug\net7.0\Nasan2.exe
+c:\Users\sverre.kallberg\Documents\Prog2\Nasan2\Nasan2\bin\Debug\net7.0\Nasan2.deps.json
+c:\Users\sverre.kallberg\Documents\Prog2\Nasan2\Nasan2\bin\Debug\net7.0\Nasan2.runtimeconfig.json
+c:\Users\sverre.kallberg\Documents\Prog2\Nasan2\Nasan2\bin\Debug\net7.0\Nasan2.dll
+c:\Users\sverre.kallberg\Documents\Prog2\Nasan2\Nasan2\bin\Debug\net7.0\Nasan2.pdb
+c:\Users\sverre.kallberg\Documents\Prog2\Nasan2\Nasan2\obj\Debug\net7.0\Nasan2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sverre.kallberg\Documents\Prog2\Nasan2\Nasan2\obj\Debug\net7.0\Nasan2.AssemblyInfoInputs.cache
+c:\Users\sverre.kallberg\Documents\Prog2\Nasan2\Nasan2\obj\Debug\net7.0\Nasan2.AssemblyInfo.cs
+c:\Users\sverre.kallberg\Documents\Prog2\Nasan2\Nasan2\obj\Debug\net7.0\Nasan2.csproj.CoreCompileInputs.cache
+c:\Users\sverre.kallberg\Documents\Prog2\Nasan2\Nasan2\obj\Debug\net7.0\Nasan2.dll
+c:\Users\sverre.kallberg\Documents\Prog2\Nasan2\Nasan2\obj\Debug\net7.0\refint\Nasan2.dll
+c:\Users\sverre.kallberg\Documents\Prog2\Nasan2\Nasan2\obj\Debug\net7.0\Nasan2.pdb
+c:\Users\sverre.kallberg\Documents\Prog2\Nasan2\Nasan2\obj\Debug\net7.0\Nasan2.genruntimeconfig.cache
+c:\Users\sverre.kallberg\Documents\Prog2\Nasan2\Nasan2\obj\Debug\net7.0\ref\Nasan2.dll
